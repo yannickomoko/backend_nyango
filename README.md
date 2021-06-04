@@ -1,2 +1,2 @@
 # nyango
-backend application of nyango mobile
+backend application web and mobile
